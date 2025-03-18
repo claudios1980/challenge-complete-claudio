@@ -1,4 +1,4 @@
-este challeenge consiste en que al agregar nombres de amigos y al apretar la tecla que esta con la manito 
+Este challeenge consiste en que al agregar nombres de amigos y al apretar la tecla que esta con la manito 
 aparecera el amigo que salio elegido. no esta demas indicar que es se reutilizo el codigo y realice cambios esteticos.
 
 como funciona: al agregar en el campo vacio nombres de personas de momemnto se pueden agregar nombres ilimitadamente, se trabajara para ver si
@@ -6,4 +6,6 @@ podemos agregar un maximo de persona,se crea una especie de tombola en la cual s
 nos indica cual es la persona que salio sorteada apretamos la tecla y se limpia la lista y desaparecen los nombres,
 aca copio el link de la pagina para que puedan probar el challenge y puedan orientarme como puedo generar mejoras en el ambito estetico 
 https://github.com/claudios1980/challenge-complete-claudio.git
+
+
               
